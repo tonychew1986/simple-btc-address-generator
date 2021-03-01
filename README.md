@@ -7,6 +7,15 @@ Features
 - generate segwit address
 - generate p2sh multisig address
 
+To do
+----------------
+- BIP38 - Passphrase-protected private keys
+- BIP39 - Mnemonic generation for deterministic keys
+- BIP68 - Relative lock-time encoding library
+- Multisig
+- testnet selection
+- PSBT
+
 
 ## Instructions
 
